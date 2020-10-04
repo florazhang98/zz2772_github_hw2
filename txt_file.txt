@@ -1,1 +1,1 @@
-This is a txt filend i would like to change s but this time at the master branchit
+ This is the revised version after resolving the conflict.
